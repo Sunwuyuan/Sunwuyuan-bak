@@ -30,6 +30,7 @@
 ## 📈 Coding 统计
 
 ![](https://raw.githubusercontent.com/Sunwuyuan/Sunwuyuan/output/github-contribution-grid-snake-dark.svg)
+![孙悟元](https://screadme.yearnstudio.cn/?username=孙悟元&code=1220&clipcc=221&kernyr=wuyuan&zc=wuyuan&theme=dark)
 
 
 
